@@ -1,5 +1,5 @@
 # SimplePythonBrowser
-A Simple Python Browser with PyQt5 
+A simple browser using PyQt5
 
 
 
@@ -7,5 +7,27 @@ A Simple Python Browser with PyQt5
 
 
 
-This Is NOT Idial for someone to install this without any knowledge wher it installs no uninstall button just extracts the code and makes the shortcuts nothing else
-the browser is also 200 mb no installer yet only source code installer soon be up to date!!!!
+This Is very beta The installer is very simple and the code is open source this is just for fun i dont want to compite with any other browsers its just for my own fun i
+hope this is great for fun purpuses ("'sorry for my spelling i am not english'")
+
+
+
+
+# Support
+
+
+| Version | Supported          | Windows
+| ------- | ------------------ | ----------------------
+| 1.0.x   | :white_check_mark: | :white_check_mark:
+
+# installer compatability
+
+| Windows Version   |  Supported            
+| ----------------  | ------------------                      
+|   95,98,2000      |    :x:  
+|      XP           |    :x:
+|  Vista, WIndows 7 |    Not Checked
+|     Windows 8     |    Not Checked
+|    Windows 10     |   :white_check_mark:
+
+
