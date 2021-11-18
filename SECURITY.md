@@ -2,13 +2,9 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          | Windows
-| ------- | ------------------ | ----------------------
-| 1.0.x   | :white_check_mark: | :white_check_mark:
-
+| Version         | Supported          | Windows
+| -------         | ------------------ | ----------------------
+| v.alpha 1.0.x   | :white_check_mark: | :white_check_mark:
 
 
 ## Reporting a Vulnerability
