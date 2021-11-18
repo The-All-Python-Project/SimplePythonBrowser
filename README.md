@@ -13,12 +13,12 @@ hope this is great for fun purpuses ("'sorry for my spelling i am not english'")
 
 
 
-# Support
+## Supported Versions
 
+| Version         | Supported          | Windows
+| -------         | ------------------ | ----------------------
+| v.alpha 1.0.x   | :white_check_mark: | :white_check_mark:
 
-| Version | Supported          | Windows
-| ------- | ------------------ | ----------------------
-| 1.0.x   | :white_check_mark: | :white_check_mark:
 
 # installer compatability
 
