@@ -19,7 +19,7 @@ class AboutDialog(QDialog):
 
         layout = QVBoxLayout()
 
-        title = QLabel("L3n1n")
+        title = QLabel("Browser")
         font = title.font()
         font.setPointSize(20)
         title.setFont(font)
