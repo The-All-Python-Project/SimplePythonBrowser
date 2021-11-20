@@ -1,2 +1,5 @@
 PyQt5>=5.6
 sip
+
+
+And A windows pc that is over xp
