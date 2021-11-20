@@ -1,14 +1,15 @@
 # SimplePythonBrowser
 A simple browser using PyQt5
 
+![index](https://user-images.githubusercontent.com/85512286/142732638-7172368f-72c2-45b8-b7b8-e36f646c8a7b.jpg)
 
-
-
+DISCORD SERVER:https://discord.gg/KKESvV24Ws
 
 
 
 This Is very beta The installer is very simple and the code is open source this is just for fun i dont want to compite with any other browsers its just for my own fun i
 hope this is great for fun purpuses ("'sorry for my spelling i am not english'")
+
 
 
 
