@@ -18,7 +18,9 @@ hope this is great for fun purpuses ("'sorry for my spelling i am not english'")
 
 | Version         | Supported          | Windows
 | -------         | ------------------ | ----------------------
-| v.alpha 1.0.x   | :white_check_mark: | :white_check_mark:
+| v.alpha 1.0.    | :x: | :x:
+| v.alpha 1.1     |:x:  |:x:
+| v.alpha 1.2     |:white_check_mark: | :white_check_mark:
 
 
 # installer compatability
