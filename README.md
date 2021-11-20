@@ -7,8 +7,7 @@ DISCORD SERVER:https://discord.gg/KKESvV24Ws
 
 
 
-This Is very beta The installer is very simple and the code is open source this is just for fun i dont want to compite with any other browsers its just for my own fun i
-hope this is great for fun purpuses ("'sorry for my spelling i am not english'")
+This is really beta. The installation is fairly easy, and the code is open source. This is simply for fun; I don't want to compete with other browsers.
 
 
 
