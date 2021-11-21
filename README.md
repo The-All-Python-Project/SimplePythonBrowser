@@ -31,5 +31,5 @@ This is really beta. The installation is fairly easy, and the code is open sourc
 |  Vista, WIndows 7 |    Not Checked
 |     Windows 8     |    Not Checked
 |    Windows 10     |   :white_check_mark:
-
+c
 
