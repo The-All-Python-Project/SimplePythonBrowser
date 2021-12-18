@@ -5,6 +5,8 @@ A simple browser using PyQt5
 
 DISCORD SERVER:https://discord.gg/KKESvV24Ws
 
+For Linux PCs more on "requirements.txt" 
+
 WARNING:Some antivirus may detect this as an virus this is because the code is not signed (More on SECURTY.md Exeception wikis for antiviruses also on SECURITY.md)  
 
 This is really beta. The installation is fairly easy, and the code is open source. This is simply for fun; I don't want to compete with other browsers.
@@ -15,11 +17,11 @@ This is really beta. The installation is fairly easy, and the code is open sourc
 
 ## Supported Versions
 
-| Version         | Supported          | Windows
-| -------         | ------------------ | ----------------------
-| v.alpha 1.0.    | :x: | :x:
-| v.alpha 1.1     |:x:  |:x:
-| v.alpha 1.2     |:white_check_mark: | :white_check_mark:
+| Version         | Supported          | Windows               | Linux               |
+| -------         | ------------------ | ----------------------| --------------------|
+| v.alpha 1.0.    | :x: | :x:                                  | :x:                 |
+| v.alpha 1.1     |:x:  |:x:                                   | :x:                 |
+| v.alpha 1.2     |:white_check_mark: | :white_check_mark:     | ✅                   |
 
 
 # installer compatability
