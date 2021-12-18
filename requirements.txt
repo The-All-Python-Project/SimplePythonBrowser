@@ -1,0 +1,12 @@
+PyQt5>=5.6
+sip
+PyQtWebEngine
+
+A Windows PC  that is over XP
+
+For a linux PC(WARNING!!! This is not tested may cause problems due to is fully beta try with your fault):
+first you need Python(It comes Usaly preinstalled to check type "python --version") , PyQt5(first you need to install pip which is not preinstalled) , PyQtWebEngine(if pip is insatalled in your system(Not preinstalled usally) then do this command "pip install PyQtWebEngine") and sip(if pip is installed(Not preinstalled) type "pip install sip") and then when you go to the folder which you installed Simple Python Browser you just rename the file without the space to run the command when you removed the space you right click in the folder where Simple Python Browser is installed and click open in terminal then type "python THEFILENAME.py" where it says THEFILENAME you type your file name WARING the ".py" extension should be on the back of the filename in every situation and if its all well it should just  work and see the window 
+
+If Help is needed join our discord server we are happy to help you :) https://discord.gg/KKESvV24Ws
+
+WIKI Comming soon and website!! stay tuned and join the discord server  
