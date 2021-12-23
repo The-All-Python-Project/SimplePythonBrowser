@@ -19,9 +19,10 @@ This is really beta. The installation is fairly easy, and the code is open sourc
 
 | Version         | Supported          | Windows               | Linux               |
 | -------         | ------------------ | ----------------------| --------------------|
-| v.alpha 1.0.    | :x: | :x:                                  | :x:                 |
-| v.alpha 1.1     |:x:  |:x:                                   | :x:                 |
-| v.alpha 1.2     |:white_check_mark: | :white_check_mark:     | ✅                   |
+| v1.0    | :x: | :x:                                  | :x:                 |
+| v1.1     |:x:  |:x:                                   | :x:                 |
+| v1.2     |:white_check_mark: | :white_check_mark:     | ✅                   |
+| v.1.3   | ✅  |  ✅   | ✅
 
 
 # installer compatability
