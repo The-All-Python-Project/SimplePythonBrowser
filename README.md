@@ -5,7 +5,7 @@ A simple browser using PyQt5
 
 DISCORD SERVER:https://discord.gg/KKESvV24Ws
 
-For Linux PCs more on "requirements.txt" 
+**For Linux PCs more on "requirements.txt"** 
 
 WARNING:Some antivirus may detect this as an virus this is because the code is not signed (More on SECURTY.md Exeception wikis for antiviruses also on SECURITY.md)  
 
