@@ -2,7 +2,7 @@
 A simple browser using PyQt5
 
 
-Website: https://pythonbrowser.ml
+Website: http://pythonbrowser.ml
 
 ![index](https://user-images.githubusercontent.com/85512286/142732638-7172368f-72c2-45b8-b7b8-e36f646c8a7b.jpg)
 
