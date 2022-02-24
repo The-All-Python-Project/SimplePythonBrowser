@@ -34,8 +34,8 @@ This is really beta. The installation is fairly easy, and the code is open sourc
 | ----------------  | ------------------                      
 |   95,98,2000      |    :x:  
 |      XP           |    :x:
-|  Vista, WIndows 7 |    Not Checked
-|     Windows 8     |    Not Checked
+|  Vista, Windows 7 |    ✅
+|     Windows 8     |    ✅
 |    Windows 10     |   :white_check_mark:
 
 
