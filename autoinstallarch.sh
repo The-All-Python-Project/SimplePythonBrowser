@@ -8,6 +8,8 @@ then
     sudo pacman -S git
     sudo pacman -S python
     sudo pacman -S python3
+    sudo pacman -S python-pip
+    sudo pacman -S python3-pip
     git clone https://github.com/Python-Browser/SimplePythonBrowser > install
     pip install PyQt5
     pip install sip
