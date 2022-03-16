@@ -1,4 +1,4 @@
-## Arch Auto Install Script Command Details:
+## Arch Auto Install Script Command Details
 
 *This Markdown file goes into detail about the script that installs the browser on arch*
 
