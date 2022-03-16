@@ -19,10 +19,9 @@ from pkg_resources import parse_version
 import os
 import sys
 
-verison = "1.5"
-
-#updateAvailable = check_for_update(version, silentCheck=True)
-#check_for_update(version)
+verisonrespone = requests.get("http://pythonbrowser.ml/latestrelease.txt")
+type(verisonrespone)
+verison = "1.3"
 
 class AboutDialog(QDialog):
     def __init__(self, *args, **kwargs):
@@ -35,7 +34,7 @@ class AboutDialog(QDialog):
 
         layout = QVBoxLayout()
 
-        title = QLabel("Simple Pyhton Browser")
+        title = QLabel("Simple Python Browser")
         font = title.font()
         font.setPointSize(20)
         title.setFont(font)
@@ -45,8 +44,10 @@ class AboutDialog(QDialog):
         logo = QLabel()
         logo.setPixmap(QPixmap(os.path.join('images', 'ma-icon-128.png')))
         layout.addWidget(logo)
-
-        layout.addWidget(QLabel("Version 1.5"))
+        if verisonrespone > verison:
+           layout.addWidget(QLabel("Version 1.5 Update Available"))
+        else:
+           layout.addWidget(QLabel("Version 1.5 No Updates Available"))
         layout.addWidget(QLabel(""))
 
         for i in range(0, layout.count()):
