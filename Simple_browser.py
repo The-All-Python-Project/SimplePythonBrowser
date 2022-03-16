@@ -150,6 +150,7 @@ class MainWindow(QMainWindow):
                                            "Updates", self)                                    
         navigate_mozarella_action.setStatusTip("Go to Browser Homepage")
         navigate_mozarella_action.triggered.connect(self.navigate_mozarella)
+        navigate_updates_action.triggered.connect(self.navigate_updates)
         help_menu.addAction(navigate_mozarella_action)
         help_menu.addAction(navigate_updates_action)
 
