@@ -19,7 +19,7 @@ from pkg_resources import parse_version
 import os
 import sys
 
-verison = "1.4"
+verison = "1.5"
 
 #updateAvailable = check_for_update(version, silentCheck=True)
 #check_for_update(version)
