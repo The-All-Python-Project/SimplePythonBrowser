@@ -245,6 +245,8 @@ class MainWindow(QMainWindow):
     def navigate_to_url(self):  # Does not receive the Url
         q = QUrl(self.urlbar.text())
         if q.scheme() == "":
+            q.setScheme("https")
+        else:
             q.setScheme("http")
 
         self.tabs.currentWidget().setUrl(q)
