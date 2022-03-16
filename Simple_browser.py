@@ -46,7 +46,7 @@ class AboutDialog(QDialog):
         logo.setPixmap(QPixmap(os.path.join('images', 'ma-icon-128.png')))
         layout.addWidget(logo)
 
-        layout.addWidget(QLabel("Version 1.4"))
+        layout.addWidget(QLabel("Version 1.5"))
         layout.addWidget(QLabel(""))
 
         for i in range(0, layout.count()):
