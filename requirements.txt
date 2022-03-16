@@ -1,7 +1,7 @@
 PyQt5>=5.6
 sip
 PyQtWebEngine
-
+requests
 
 Check Our site for on "http://pythonbrowser.ml/wiki.html"
 
