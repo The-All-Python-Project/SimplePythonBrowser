@@ -19,9 +19,9 @@ from pkg_resources import parse_version
 import os
 import sys
 
-verisonrespone = requests.get("http://pythonbrowser.ml/latestrelease.txt")
-type(verisonrespone)
-verison = "1.3"
+verisonrespone = requests.get("https://api.github.com/repos/Python-Browser/SimplePythonBrowser/releases/tags/1.4")
+
+verison = requests.get("https://api.github.com/repos/Python-Browser/SimplePythonBrowser/releases/tags/1.4")
 
 class AboutDialog(QDialog):
     def __init__(self, *args, **kwargs):
@@ -44,12 +44,11 @@ class AboutDialog(QDialog):
         logo = QLabel()
         logo.setPixmap(QPixmap(os.path.join('images', 'ma-icon-128.png')))
         layout.addWidget(logo)
-        if verisonrespone > verison:
-           layout.addWidget(QLabel("Version 1.5 Update Available"))
+        if verison == verisonrespone:
+           layout.addWidget(QLabel("Version 1.5"))
         else:
            layout.addWidget(QLabel("Version 1.5 No Updates Available"))
         layout.addWidget(QLabel(""))
-
         for i in range(0, layout.count()):
             layout.itemAt(i).setAlignment(Qt.AlignHCenter)
 
