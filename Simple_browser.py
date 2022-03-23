@@ -19,8 +19,8 @@ from pkg_resources import parse_version
 import os
 import sys
 
-verisonrespone = requests.get("https://api.github.com/repos/Python-Browser/SimplePythonBrowser/releases/tags/1.4")
-
+githubver = requests.get("https://api.github.com/repos/Python-Browser/SimplePythonBrowser/releases/tags/1.5")
+fakever = requests.get("https://api.github.com/repos/Python-Browser/SimplePythonBrowser/releases/tags/1.100000000")
 verison = requests.get("https://api.github.com/repos/Python-Browser/SimplePythonBrowser/releases/tags/1.4")
 
 class AboutDialog(QDialog):
@@ -44,7 +44,7 @@ class AboutDialog(QDialog):
         logo = QLabel()
         logo.setPixmap(QPixmap(os.path.join('images', 'ma-icon-128.png')))
         layout.addWidget(logo)
-        if verison == verisonrespone:
+        if githubver == fakever:
            layout.addWidget(QLabel("Version 1.5"))
         else:
            layout.addWidget(QLabel("Version 1.5 No Updates Available"))
