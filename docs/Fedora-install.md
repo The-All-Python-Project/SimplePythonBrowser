@@ -2,7 +2,7 @@
 
 run this 
 ```
-https://raw.githubusercontent.com/Python-Browser/SimplePythonBrowser/main/install-fedora.sh | bash
+wget https://raw.githubusercontent.com/Python-Browser/SimplePythonBrowser/main/install-fedora.sh | bash
 ```
 
 # Manual
