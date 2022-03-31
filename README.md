@@ -26,6 +26,8 @@ This is really beta. The installation is fairly easy, and the code is open sourc
 | v1.1     |:x:  |:x:                                   | :x:                 |
 | v1.2     |:white_check_mark: | :white_check_mark:     | ✅                   |
 | v.1.3   | ✅  |  ✅   | ✅
+| v1.4   | :white_check_mark:|:white_check_mark:|:white_check_mark:|
+| v.1.5 |:white_check_mark:|:white_check_mark:|:white_check_mark:|
 
 
 # installer compatability
@@ -33,7 +35,7 @@ This is really beta. The installation is fairly easy, and the code is open sourc
 | Windows Version   |  Supported            
 | ----------------  | ------------------                      
 |   95,98,2000      |    :x:  
-|      XP           |    :x:
+|      XP           |    :white_check_mark:
 |  Vista, Windows 7 |    ✅
 |     Windows 8     |    ✅
 |    Windows 10     |   :white_check_mark:
