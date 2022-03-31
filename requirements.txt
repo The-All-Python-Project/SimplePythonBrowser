@@ -2,14 +2,3 @@ PyQt5>=5.6
 sip
 PyQtWebEngine
 requests
-
-Check Our site for on "http://pythonbrowser.ml/wiki.html"
-
-1) You open your file explorer in linux like dolphin and write click to your folder that you want to install the Browser and open a terminal there by right clicking.
-2) Then you need to type the command "git clone https://github.com/Python-Browser/SimplePythonBrowser > install" and it will start cloning the repo to a folder called install
-3) Then cd to the folder by typing "cd install" and then typing "chmod +x autoinstalldeb.sh" to make the sh file executable and to run the install type "sh autoinstalldeb.sh"
-4) then you can execute the Browser by running "python Simple_browser.py" or "python3 Simple_browser.py"
-5) If you have any problems you can make an issue in github or send an email or try contact details on "http://pythonbrowser.ml/contact.html"
-
-
-join the discord server  On README.md

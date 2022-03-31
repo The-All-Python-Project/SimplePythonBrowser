@@ -10,7 +10,7 @@ DISCORD SERVER:https://discord.gg/KKESvV24Ws
 
 **For Linux PCs more on docs folder** 
 
-WARNING:Some antivirus may detect this as an virus this is because the code is not signed (More on SECURTY.md Exeception wikis for antiviruses also on SECURITY.md)  
+WARNING:Some antivirus software may detect this as a virus because the code is not signed see SECURITY.md for more information. Antivirus wikis are also available on SECURITY.md.
 
 This is really beta. The installation is fairly easy, and the code is open source. This is simply for fun; I don't want to compete with other browsers.
 
