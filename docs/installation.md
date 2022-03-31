@@ -7,5 +7,5 @@ To install Python-Browser see the tutorial for your os below:
 
 [Debian/Ubuntu](https://python-browser.github.io/SimplePythonBrowser/Debian-install)
 
-[Windows](https://python-browser.github.io/SimplePythonBrowser/Windows-install)
+[Windows](https://python-browser.github.io/SimplePythonBrowser/windows-install)
 
