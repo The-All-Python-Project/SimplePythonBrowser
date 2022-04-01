@@ -3,21 +3,11 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 from PyQt5.QtWebEngineWidgets import *
 from PyQt5.QtPrintSupport import *
-import io
 import os
-import re
 import sys
-import time
-from datetime import datetime
-import traceback
-import platform
 import requests
-from base64 import b85decode as b64decode
-from configparser import ConfigParser
-from pkg_resources import parse_version
-
 import os
-import sys
+
 
 githubver = requests.get("https://api.github.com/repos/Python-Browser/SimplePythonBrowser/releases/tags/1.5")
 fakever = requests.get("https://api.github.com/repos/Python-Browser/SimplePythonBrowser/releases/tags/1.100000000")
