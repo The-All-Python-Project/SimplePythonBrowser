@@ -9,4 +9,4 @@ For installation see [Here](https://python-browser.github.io/SimplePythonBrowser
 
 For changelog see [This](https://python-browser.github.io/SimplePythonBrowser/changelog)
 
-If You want to see an html version of the site click [This](https://python-browser.github.io/SimplePythonBrowser/html/index)
+If You want to see an html version of the site click [This](https://python-browser.github.io/SimplePythonBrowser/html/Home)
