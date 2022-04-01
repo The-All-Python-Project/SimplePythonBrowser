@@ -14,5 +14,5 @@ pip install PyQt5 sip requests PyQtWebEngine
 ```
 To run it:
 ```
-python3 Simple_browser.py
+python Simple_browser.py
 ```
