@@ -36,7 +36,7 @@ This is really beta. The installation is fairly easy, and the code is open sourc
 | Windows Version   |  Supported            
 | ----------------  | ------------------                      
 |   95,98,2000      |    :x:  
-|      XP           |    :white_check_mark:
+|      XP           |    :x:
 |  Vista, Windows 7 |    ✅
 |     Windows 8     |    ✅
 |    Windows 10     |   :white_check_mark:
