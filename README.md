@@ -4,12 +4,12 @@ A simple browser using PyQt5
 
 Website: http://pythonbrowser.ml
 
-
 ![index](https://user-images.githubusercontent.com/85512286/142732638-7172368f-72c2-45b8-b7b8-e36f646c8a7b.jpg)
 
 DISCORD SERVER:https://discord.gg/KKESvV24Ws
 
 **For Linux PCs more on docs folder** 
+[![Download Simple Python Browser](https://img.shields.io/sourceforge/dt/simple-python-browser.svg)](https://sourceforge.net/projects/simple-python-browser/files/latest/download)
 
 WARNING:Some antivirus software may detect this as a virus because the code is not signed see SECURITY.md for more information. Antivirus wikis are also available on SECURITY.md.
 
