@@ -4,10 +4,8 @@ A simple browser using PyQt5
 [![Download Simple Python Browser](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/simple-python-browser/files/latest/download)
 
 Website: http://pythonbrowser.ml
-
-![index](https://user-images.githubusercontent.com/85512286/142732638-7172368f-72c2-45b8-b7b8-e36f646c8a7b.jpg)
-
-[!(https://user-images.githubusercontent.com/85512286/142732638-7172368f-72c2-45b8-b7b8-e36f646c8a7b.jpg)][discord server](https://discord.gg/KKESvV24Ws)
+*click on discord icon to join server*
+[![discord server](https://user-images.githubusercontent.com/85512286/142732638-7172368f-72c2-45b8-b7b8-e36f646c8a7b.jpg)](https://discord.gg/KKESvV24Ws)
 
 **For Linux PCs more on docs folder** 
 
