@@ -1,4 +1,5 @@
 # SimplePythonBrowser
+[![Download Simple Python Browser](https://img.shields.io/sourceforge/dt/simple-python-browser.svg)](https://sourceforge.net/projects/simple-python-browser/files/latest/download)
 A simple browser using PyQt5
 
 
@@ -9,7 +10,7 @@ Website: http://pythonbrowser.ml
 DISCORD SERVER:https://discord.gg/KKESvV24Ws
 
 **For Linux PCs more on docs folder** 
-[![Download Simple Python Browser](https://img.shields.io/sourceforge/dt/simple-python-browser.svg)](https://sourceforge.net/projects/simple-python-browser/files/latest/download)
+
 
 WARNING:Some antivirus software may detect this as a virus because the code is not signed see SECURITY.md for more information. Antivirus wikis are also available on SECURITY.md.
 
