@@ -7,7 +7,7 @@ Website: http://pythonbrowser.ml
 
 ![index](https://user-images.githubusercontent.com/85512286/142732638-7172368f-72c2-45b8-b7b8-e36f646c8a7b.jpg)
 
-DISCORD SERVER:https://discord.gg/KKESvV24Ws
+[discord server](https://discord.gg/KKESvV24Ws)
 
 **For Linux PCs more on docs folder** 
 
