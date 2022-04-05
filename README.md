@@ -14,7 +14,7 @@ DISCORD SERVER:https://discord.gg/KKESvV24Ws
 
 WARNING:Some antivirus software may detect this as a virus because the code is not signed see SECURITY.md for more information. Antivirus wikis are also available on SECURITY.md.
 
-This is really beta. The installation is fairly easy, and the code is open source. This is simply for fun; I don't want to compete with other browsers.
+The installation is fairly easy, and the code is open source. This is simply for fun; I don't want to compete with other browsers.
 
 
 
