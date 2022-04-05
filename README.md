@@ -1,7 +1,7 @@
 # SimplePythonBrowser
 [![Download Simple Python Browser](https://img.shields.io/sourceforge/dt/simple-python-browser.svg)](https://sourceforge.net/projects/simple-python-browser/files/latest/download)
 A simple browser using PyQt5
-
+[![Download Simple Python Browser](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/simple-python-browser/files/latest/download)
 
 Website: http://pythonbrowser.ml
 
