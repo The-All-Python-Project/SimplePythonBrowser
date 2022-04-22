@@ -2,13 +2,11 @@
 git clone https://www.github.com/JohnVictoryz/SimplePythonBrowser
 cd SimplePythonBrowser
 cat LICENSE
-echo "Do you agree with the lisense(y/n):"
-read x
-if [ ${x} = "y"] 
-then
-    sudo apt-get update && sudo apt upgrade && sudo apt-get install python3 python3-pip
-    pip3 install PyQt5 PyQtWebEngine sip requests
-    echo "You Have sucessfully installed SimplePythonBrowser!"
-else 
-    echo "The Installation failed because the user did not agreed with the license!"
+read answer
+if [ "$answer" != "${answer#[Yy]}" ] ;then # this grammar (the #[] operator) means that the variable $answer where any Y or y in 1st position will be dropped if they exist.
+    sudo apt install python, python3, python-pip, python3-pip
+    pip install PyQt5, PyQtWebEngine, sip, requests
+    echo "/nSimple Python Browser instaled all the dependeses successfully for updates check the github for info on updating"
+else
+    echo "Installation exited with error code (205) that means the user did not accept the lisence"
 fi
