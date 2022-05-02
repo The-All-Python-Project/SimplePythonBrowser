@@ -1,6 +1,6 @@
 # SimplePythonBrowser
 
-New Added Trello board!!!! [![Click Here!!](https://trello.com/b/63IueVJN/ideas)]
+New Added Trello board!!!! [![Click Here!!](https://trello.com/b/63IueVJN/ideas)
 
 
 
