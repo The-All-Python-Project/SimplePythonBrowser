@@ -11,3 +11,5 @@ For changelog see [This](https://python-browser.github.io/SimplePythonBrowser/ch
 If You want to see an html version of the site click [This](https://python-browser.github.io/SimplePythonBrowser/html/Home)
 
 If you want to download links click [this](https://python-browser.github.io/SimplePythonBrowser/downloads)
+
+If you want to see the new added Trello board click [this](https://trello.com/b/63IueVJN/ideas)
