@@ -1,6 +1,6 @@
 # Easy method
 
-Download the exe from releases and run it
+Download the exe from releases and run it you can download it from [here](https://github.com/Python-Browser/SimplePythonBrowser/releases) or from [here](https://sourceforge.net/projects/simple-python-browser/files/latest/download)
 
 # Manual
 
