@@ -2,11 +2,21 @@
 git clone https://www.github.com/JohnVictoryz/SimplePythonBrowser
 cd SimplePythonBrowser
 cat LICENSE
-read answer
-if [ "$answer" != "${answer#[Yy]}" ] ;then # this grammar (the #[] operator) means that the variable $answer where any Y or y in 1st position will be dropped if they exist.
+echo "\nDo you agree with the lisense (y/n)"
+read x
+if [ ${x} = "y" ] 
+then
+    echo "\nDo you want to update the system on installation(recommented) (y/n)"
+    read d
+    if [ ${d} = "y" ]
+    then
+        sudo apt update
+    else
+        echo "\nWe won't update the system"
+    fi
     sudo apt install python, python3, python-pip, python3-pip
     pip install PyQt5, PyQtWebEngine, sip, requests
-    echo "/nSimple Python Browser instaled all the dependeses successfully for updates check the github for info on updating"
+    echo "\nSimple Python Browser instaled all the dependeses successfully for updates check the github for info on updating"
 else
-    echo "Installation exited with error code (205) that means the user did not accept the lisence"
+    echo "\nInstallation exited with error code (205) that means the user did not accept the lisence"
 fi
