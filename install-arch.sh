@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone https://github.com/Python-Browser/SimplePythonBrowser
+git clone https://github.com/The-All-Python-Project/SimplePythonBrowser
 cd SimplePythonBrowser
 cat LICENSE
 echo "\nDo You Agree with the LICENSE (y/n)"

@@ -1,10 +1,10 @@
 # Installation 
 To install Python-Browser see the tutorial for your os below:
 
-[Arch Linux](https://python-browser.github.io/SimplePythonBrowser/installation/Arch-install)
+[Arch Linux](https://the-all-python-project.github.io/SimplePythonBrowser/installation/Arch-install)
 
-[Fedora](https://python-browser.github.io/SimplePythonBrowser/installation/Fedora-install)
+[Fedora](https://the-all-python-project.github.io/SimplePythonBrowser/installation/Fedora-install)
 
-[Debian/Ubuntu](https://python-browser.github.io/SimplePythonBrowser/installation/Debian-install)
+[Debian/Ubuntu](https://the-all-python-project.github.io/SimplePythonBrowser/installation/Debian-install)
 
-[Windows](https://python-browser.github.io/SimplePythonBrowser/installation/windows/windows-install)
+[Windows](https://the-all-python-project.github.io/SimplePythonBrowser/installation/windows/windows-install)

@@ -9,9 +9,8 @@ import requests
 import os
 
 
-githubver = requests.get("https://api.github.com/repos/Python-Browser/SimplePythonBrowser/releases/tags/1.5")
-fakever = requests.get("https://api.github.com/repos/Python-Browser/SimplePythonBrowser/releases/tags/1.100000000")
-verison = requests.get("https://api.github.com/repos/Python-Browser/SimplePythonBrowser/releases/tags/1.4")
+githubver = requests.get("https://api.github.com/repos/The-All-Python-Project/SimplePythonBrowser/releases/tags/1.5")
+fakever = requests.get("https://api.github.com/repos/The-All-Python-Project/SimplePythonBrowser/releases/tags/1.100000000")
 
 class AboutDialog(QDialog):
     def __init__(self, *args, **kwargs):
@@ -137,12 +136,16 @@ class MainWindow(QMainWindow):
         navigate_mozarella_action = QAction(QIcon(os.path.join('images', 'lifebuoy.png')),
                                             "Help", self)
         navigate_updates_action = QAction(QIcon(os.path.join('images', 'updatesicon.png')),
-                                           "Updates", self)                                    
+                                           "Updates", self)
+        navigate_site_action = QAction(QIcon(os.path.join('images', 'siteicon.png')),
+                                           "Github Page", self)                                                                     
         navigate_mozarella_action.setStatusTip("Go to Browser Homepage")
         navigate_mozarella_action.triggered.connect(self.navigate_mozarella)
         navigate_updates_action.triggered.connect(self.navigate_updates)
+        navigate_site_action.triggered.connect(self.navigate_site)
         help_menu.addAction(navigate_mozarella_action)
         help_menu.addAction(navigate_updates_action)
+        help_menu.addAction(navigate_site_action)
 
         self.add_new_tab(QUrl('https://www.google.com/'), 'Homepage')
 
@@ -198,6 +201,9 @@ class MainWindow(QMainWindow):
     
     def navigate_updates(self):
         self.tabs.currentWidget().setUrl(QUrl("https://github.com/JohnVictoryz/SimplePythonBrowser/releases"))
+    
+    def navigate_site(self):
+        self.tabs.currentWidget().setUrl(QUrl("https://the-all-python-project.github.io/SimplePythonBrowser"))
 
     def about(self):
         dlg = AboutDialog()

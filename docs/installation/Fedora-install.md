@@ -2,7 +2,7 @@
 
 run this 
 ```
-wget https://raw.githubusercontent.com/Python-Browser/SimplePythonBrowser/main/install-fedora.sh | bash
+wget https://raw.githubusercontent.com/The-All-Python-Project/SimplePythonBrowser/main/install-fedora.sh | bash
 ```
 
 # Manual
@@ -10,7 +10,7 @@ wget https://raw.githubusercontent.com/Python-Browser/SimplePythonBrowser/main/i
 Run these commands:
 ```
 sudo dnf install git python3 python-pip
-git clone https://github.com/Python-Browser/SimplePythonBrowser
+git clone https://github.com/The-All-Python-Project/SimplePythonBrowser
 cd SimplePythonBrowser
 pip install PyQt5 sip requests PyQtWebEngine
 ```

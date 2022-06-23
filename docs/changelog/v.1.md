@@ -3,4 +3,4 @@ No icons whatsoever
 only text
 basic functions
 
-Return to the [changelog](https://python-browser.github.io/SimplePythonBrowser/changelog)
+Return to the [changelog](https://the-all-python-project.github.io/SimplePythonBrowser/changelog)
