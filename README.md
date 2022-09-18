@@ -33,7 +33,7 @@ The installation is fairly easy, and the code is open source. This is simply for
 | v.1.3   | ✅  |  ✅   | ✅|:x:
 | v1.4   | :white_check_mark:|:white_check_mark:|:white_check_mark:|:x:
 | v.1.5 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:
-| v.1.6 |:white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark |
+| v.1.6 |:white_check_mark: | :white_check_mark: | :white_check_mark: | ✅ |
 
 # installer compatability
 
