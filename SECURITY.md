@@ -4,10 +4,13 @@
 
 | Version         | Supported          | Windows
 | -------         | ------------------ | ----------------------
-| v.alpha 1.0     | :x:                | :x:
-| v.alpha 1.1     | :x:                | :x:
-| v.alpha 1.2     | ✅                 | ✅
-| v.alpha 1.3     | :white_check_mark: | ✅
+| v1.0     | :x:                | :x:
+| v1.1     | :x:                | :x:
+| v1.2     | ✅                 | ✅
+|  v1.3     | :white_check_mark: | ✅
+|v1.4|:white_check_mark:|:white_check_mark
+|v1.5|:white_check_mark:|:white_check_mark:
+|v1.6|:white_check_mark:|:white_check_mark:
 ## Reporting a Vulnerability
 
 
