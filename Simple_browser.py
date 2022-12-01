@@ -1,3 +1,4 @@
+
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
@@ -7,11 +8,14 @@ import os
 import sys
 import requests
 import os
-
-
+# New config Also not working
+import json
+json = open("config.json", "r")
+app_data = json.loads(json.read())
+# ----------------------------------------------------------------------------------------------------------------------
 githubver = requests.get("https://api.github.com/repos/The-All-Python-Project/SimplePythonBrowser/releases/tags/1.5")
 fakever = requests.get("https://api.github.com/repos/The-All-Python-Project/SimplePythonBrowser/releases/tags/1.100000000")
-
+#About Dialog
 class AboutDialog(QDialog):
     def __init__(self, *args, **kwargs):
         super(AboutDialog, self).__init__(*args, **kwargs)
@@ -45,7 +49,7 @@ class AboutDialog(QDialog):
 
         self.setLayout(layout)
 
-
+# Main Window
 class MainWindow(QMainWindow):
     def __init__(self, *args, **kwargs):
         super(MainWindow, self).__init__(*args, **kwargs)
@@ -103,24 +107,25 @@ class MainWindow(QMainWindow):
 
         # Uncomment to disable native menubar on Mac
         # self.menuBar().setNativeMenuBar(False)
-
+        
+        # Add file menu
         file_menu = self.menuBar().addMenu("&File")
 
         new_tab_action = QAction(QIcon(os.path.join('images', 'ui-tab--plus.png')), "New Tab", self)
         new_tab_action.setStatusTip("Open a new tab")
         new_tab_action.triggered.connect(lambda _: self.add_new_tab())
         file_menu.addAction(new_tab_action)
-
+        # Save file
         open_file_action = QAction(QIcon(os.path.join('images', 'disk--arrow.png')), "Open file...", self)
         open_file_action.setStatusTip("Open from file")
         open_file_action.triggered.connect(self.open_file)
         file_menu.addAction(open_file_action)
-
+        
         save_file_action = QAction(QIcon(os.path.join('images', 'disk--pencil.png')), "Save Page As...", self)
         save_file_action.setStatusTip("Save current page to file")
         save_file_action.triggered.connect(self.save_file)
         file_menu.addAction(save_file_action)
-
+        # Printing
         print_action = QAction(QIcon(os.path.join('images', 'printer.png')), "Print...", self)
         print_action.setStatusTip("Print current page")
         print_action.triggered.connect(self.print_page)
@@ -132,7 +137,7 @@ class MainWindow(QMainWindow):
         about_action.setStatusTip("Find out more about the Browser")  # Hungry!
         about_action.triggered.connect(self.about)
         help_menu.addAction(about_action)
-
+        # Icons for help menu
         navigate_mozarella_action = QAction(QIcon(os.path.join('images', 'lifebuoy.png')),
                                             "Help", self)
         navigate_updates_action = QAction(QIcon(os.path.join('images', 'updatesicon.png')),
@@ -143,10 +148,11 @@ class MainWindow(QMainWindow):
         navigate_mozarella_action.triggered.connect(self.navigate_mozarella)
         navigate_updates_action.triggered.connect(self.navigate_updates)
         navigate_site_action.triggered.connect(self.navigate_site)
+        # Adding Actions to help menu
         help_menu.addAction(navigate_mozarella_action)
         help_menu.addAction(navigate_updates_action)
         help_menu.addAction(navigate_site_action)
-
+        # Default Webpage
         self.add_new_tab(QUrl('https://www.google.com/'), 'Homepage')
 
         self.show()
@@ -195,7 +201,7 @@ class MainWindow(QMainWindow):
 
         title = self.tabs.currentWidget().page().title()
         self.setWindowTitle("%s - Web Browser" % title)
-
+    # Links for buttons
     def navigate_mozarella(self):
         self.tabs.currentWidget().setUrl(QUrl("https://github.com/JohnVictoryz/SimplePythonBrowser/issues"))
     
@@ -235,7 +241,7 @@ class MainWindow(QMainWindow):
         dlg = QPrintPreviewDialog()
         dlg.paintRequested.connect(self.browser.print_)
         dlg.exec_()
-
+    # Homepage
     def navigate_home(self):
         self.tabs.currentWidget().setUrl(QUrl("https://www.google.com"))
 
