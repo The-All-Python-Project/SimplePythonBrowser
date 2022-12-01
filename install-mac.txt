@@ -1,0 +1,17 @@
+This is how to intall Simple Python Browser on Mac Os
+
+1.Start by instaling python
+2.After installing python open the terminal and type "curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py" and press Enter
+3.After that command type "python3 get-pip.py" and press Enter
+4.Then download the zip on the release that says "SimplePythonBrowser.zip"
+5.Extract the zip
+6.On the terminal type "pip install PyQt5" and press Enter
+7.On the terminal type "pip install PyQtWebEngine" and press Enter
+8.On the termianl type "pip install sip" and press Enter
+9.On the terminal type "pip install requests" and press Enter
+10.After all of the commands we dont need to use the terminal anymore so close it
+11.Then go on finder and go to downloads
+12.And just open the folder called SimplePythonBrowser
+13.And to finally to launch double click on Simple Python Browser.py
+
+If you have any problems go to the github page of the project and go to issues and click new issue and i'll try to help you :)
