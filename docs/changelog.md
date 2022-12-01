@@ -1,7 +1,0 @@
-[v.1.0](https://the-all-python-project.github.io/SimplePythonBrowser/changelog/v.1)
-[v.1.1](https://the-all-python-project.github.io/SimplePythonBrowser/changelog/v1.1)
-[v.1.2](https://the-all-python-project.github.io/SimplePythonBrowser/changelog/v1.2)
-[v.1.3](https://the-all-python-project.github.io/SimplePythonBrowser/changelog/v1.3)
-[v.1.4](https://the-all-python-project.github.io/SimplePythonBrowser/changelog/v1.4)
-[v.1.5](https://the-all-python-project.github.io/SimplePythonBrowser/changelog/v1.5)
-[v.1.6](https://the-all-python-project.github.io/SimplePythonBrowser/changelog/v1.6)
