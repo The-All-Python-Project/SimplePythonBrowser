@@ -1,8 +1,9 @@
 {
     "application":[
           {
-            "default webpage": "google.com",
-            "Navigation Bar Orrientation": "up"
+            "default-webpage": "google.com",
+            "Navigation-bar-orrientation": "up",
+            "version": "v1.7"
           }
     ]
 }

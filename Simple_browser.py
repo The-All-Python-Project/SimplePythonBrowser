@@ -7,13 +7,12 @@ from PyQt5.QtPrintSupport import *
 import os
 import sys
 import requests
-import os
 # New config Also not working
 import json
 json = open("config.json", "r")
 app_data = json.loads(json.read())
 # ----------------------------------------------------------------------------------------------------------------------
-githubver = requests.get("https://api.github.com/repos/The-All-Python-Project/SimplePythonBrowser/releases/tags/1.5")
+githubver = requests.get("https://api.github.com/repos/The-All-Python-Project/SimplePythonBrowser/releases/tags/1.6")
 fakever = requests.get("https://api.github.com/repos/The-All-Python-Project/SimplePythonBrowser/releases/tags/1.100000000")
 #About Dialog
 class AboutDialog(QDialog):
