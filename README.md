@@ -3,7 +3,6 @@
 New Added Trello board!!!! [Click Here!!](https://trello.com/b/63IueVJN/ideas)
 
 
-
 [![Download Simple Python Browser](https://img.shields.io/sourceforge/dt/simple-python-browser.svg)](https://sourceforge.net/projects/simple-python-browser/files/latest/download)
 A simple browser using PyQt5
 [![Download Simple Python Browser](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/simple-python-browser/files/latest/download)
@@ -12,15 +11,10 @@ Website: https://the-all-python-project.github.io/SimplePythonBrowser
 *click on discord icon to join server*
 [![discord server](https://user-images.githubusercontent.com/85512286/142732638-7172368f-72c2-45b8-b7b8-e36f646c8a7b.jpg)](https://discord.gg/KKESvV24Ws)
 
-**For Linux PCs more on docs folder** 
 
-
-WARNING:Some antivirus software may detect this as a virus because the code is not signed see SECURITY.md for more information. Antivirus wikis are also available on SECURITY.md.
+WARNING:Some antivirus software may detect this as a virus because the code is not signed see SECURITY.md for more information. Antivirus wikis are also available on SECURITY.md
 
 The installation is fairly easy, and the code is open source. This is simply for fun; I don't want to compete with other browsers.
-
-
-
 
 
 ## Supported Versions
