@@ -1,13 +1,13 @@
 # SimplePythonBrowser
 
-New Added Trello board!!!! [Click Here!!](https://trello.com/b/63IueVJN/ideas)
+New Added Trello board!!!! [Click Here!!](https://trello.com/b/63IueVJN/ideas)\
 Also See github projects page [Here](https://github.com/orgs/The-All-Python-Project/projects/1)
 
-[![Download Simple Python Browser](https://img.shields.io/sourceforge/dt/simple-python-browser.svg)](https://sourceforge.net/projects/simple-python-browser/files/latest/download)
-A simple browser using PyQt5
+[![Download Simple Python Browser](https://img.shields.io/sourceforge/dt/simple-python-browser.svg)](https://sourceforge.net/projects/simple-python-browser/files/latest/download)\
+A simple browser using PyQt5\
 [![Download Simple Python Browser](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/simple-python-browser/files/latest/download)
 
-Website: https://the-all-python-project.github.io/SimplePythonBrowser
+Website: https://the-all-python-project.github.io/SimplePythonBrowser \
 *click on discord icon to join server*
 [![discord server](https://user-images.githubusercontent.com/85512286/142732638-7172368f-72c2-45b8-b7b8-e36f646c8a7b.jpg)](https://discord.gg/KKESvV24Ws)
 
