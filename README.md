@@ -1,7 +1,7 @@
 # SimplePythonBrowser
 
 New Added Trello board!!!! [Click Here!!](https://trello.com/b/63IueVJN/ideas)
-
+Also See github projects page [Here](https://github.com/orgs/The-All-Python-Project/projects/1)
 
 [![Download Simple Python Browser](https://img.shields.io/sourceforge/dt/simple-python-browser.svg)](https://sourceforge.net/projects/simple-python-browser/files/latest/download)
 A simple browser using PyQt5
