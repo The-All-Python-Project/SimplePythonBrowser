@@ -9,7 +9,7 @@ A simple browser using PyQt5\
 
 Website: https://the-all-python-project.github.io/SimplePythonBrowser \
 *click on discord icon to join server*
-[![discord server](https://user-images.githubusercontent.com/85512286/142732638-7172368f-72c2-45b8-b7b8-e36f646c8a7b.jpg)](https://discord.gg/KKESvV24Ws)
+[![discord server](https://discord.gg/KKESvV24Ws)
 
 
 ### WARNING:Some antivirus software may detect this as a virus because the code is not signed see SECURITY.md for more information. Antivirus wikis are also available on SECURITY.md
