@@ -12,7 +12,7 @@ Website: https://the-all-python-project.github.io/SimplePythonBrowser \
 [![discord server](https://user-images.githubusercontent.com/85512286/142732638-7172368f-72c2-45b8-b7b8-e36f646c8a7b.jpg)](https://discord.gg/KKESvV24Ws)
 
 
-WARNING:Some antivirus software may detect this as a virus because the code is not signed see SECURITY.md for more information. Antivirus wikis are also available on SECURITY.md
+### WARNING:Some antivirus software may detect this as a virus because the code is not signed see SECURITY.md for more information. Antivirus wikis are also available on SECURITY.md
 
 The installation is fairly easy, and the code is open source. This is simply for fun; I don't want to compete with other browsers.
 
@@ -29,7 +29,7 @@ The installation is fairly easy, and the code is open source. This is simply for
 | v.1.5 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:x:
 | v.1.6 |:white_check_mark: | :white_check_mark: | :white_check_mark: | ✅ |
 
-# installer compatability
+# Installer Compatability
 
 | Windows Version   |  Supported            
 | ----------------  | ------------------                      
